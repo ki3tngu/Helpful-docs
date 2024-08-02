@@ -1,2 +1,3 @@
-# Helpful-docs
-Tổng hợp các tài liệu có ích
+- Facebook ADS [VIEW](https://drive.google.com/drive/mobile/folders/1ci8AYhqzXROmrs677sqHYJxUb-0QXKu3?fbclid=IwY2xjawEZeTxleHRuA2FlbQIxMQABHVACwojsjX6umtm3O-dxYdTMyoNY_IcyS9E7DKYqvLjQsnGUqFd-zDeF5A_aem_RMKY5Ddyv-gZ8CFhhq2_Eg)
+- Github Skills [VIEW](https://skills.github.com/)
+- MindMap [VIEW](https://funo5wvtjy.larksuite.com/mindnotes/KIFmbLzwWmz0EynBs0suneTbswc)
