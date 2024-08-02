@@ -1,3 +1,6 @@
 - Facebook ADS [VIEW](https://drive.google.com/drive/mobile/folders/1ci8AYhqzXROmrs677sqHYJxUb-0QXKu3?fbclid=IwY2xjawEZeTxleHRuA2FlbQIxMQABHVACwojsjX6umtm3O-dxYdTMyoNY_IcyS9E7DKYqvLjQsnGUqFd-zDeF5A_aem_RMKY5Ddyv-gZ8CFhhq2_Eg)
 - Github Skills [VIEW](https://skills.github.com/)
 - MindMap [VIEW](https://funo5wvtjy.larksuite.com/mindnotes/KIFmbLzwWmz0EynBs0suneTbswc)
+- Photography <a href="https://codelaptrinh-my.sharepoint.com/personal/minhanh_codelaptrinh_onmicrosoft_com/_layouts/15/onedrive.aspx?id=/personal/minhanh_codelaptrinh_onmicrosoft_com/Documents/Photography by Carbon&ga=1">VIEW</a>
+- Write a MMO tool [VIEW](https://m.youtube.com/playlist?list=PL4BMIU_JnQBRwlIqCvW2SucdIi1eKgtHA&fbclid=IwZXh0bgNhZW0CMTEAAR1iOdTMhetHmG86ZP9fA5UJzaMp9f4q6izbq-_K0R3dL_GgOS--4WXeU9w_aem_vT4xVNDf3ilG25ddTHLM1w)
+- Youtube downloade [VIEW](https://github.com/aandrew-me/ytdownloader)
